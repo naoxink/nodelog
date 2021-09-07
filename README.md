@@ -16,8 +16,11 @@ Log.addLogType('mongodb')
 Log.addLogType('mongodbError')
 
 // Uso
+Log.error('Algún error')
+Log.info('Información meh')
 Log.access('Acceso desde xx.xx.xx.xx')
 Log.mongodb('Conectado a mongodb')
+Log.mongodbError('Algún error en mongodb')
 ```
 
 ---
