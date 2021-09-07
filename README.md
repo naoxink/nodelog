@@ -2,7 +2,7 @@
  
 ### Uso:
 
-````javascript
+```javascript
 // Requerir la clase
 Log = require('./helpers/Log.js')
 
